@@ -1,4 +1,7 @@
-143336a86e5ad42c31e3eebf8c1ab60762366b326a2b55395163443948777938693964776c38334745704b6333394d424f424a646549514b4978343d
+
+#EXTM3U
+
+
 # INFO
 #EXTINF:-1 tvg-id="" tvg-name="BERNAMA RADIO" group-title="KING OF LORD IZZAT BEJAT" group-logo="https://rocket-tv.online/Gambar.webp" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gkfjan.png" ch-number="",IWAK PEYEK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
